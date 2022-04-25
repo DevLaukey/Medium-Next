@@ -6,7 +6,7 @@ import { useForm, SubmitHandler } from 'react-hook-form'
 import { useState } from 'react'
 
 interface Props {
-  post: Post
+  post: typeof Post;
 }
 
 interface IFormInput {

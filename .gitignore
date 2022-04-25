@@ -8,7 +8,7 @@
 # testing
 /coverage
 
-y
+y/node_modules
 # next.js
 /.next/
 /out/
